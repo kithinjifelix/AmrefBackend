@@ -1,0 +1,11 @@
+E:\source\personal\interview\PG.Management\PG.SharedKernel\bin\Debug\netcoreapp3.1\PG.SharedKernel.deps.json
+E:\source\personal\interview\PG.Management\PG.SharedKernel\bin\Debug\netcoreapp3.1\PG.SharedKernel.runtimeconfig.json
+E:\source\personal\interview\PG.Management\PG.SharedKernel\bin\Debug\netcoreapp3.1\PG.SharedKernel.runtimeconfig.dev.json
+E:\source\personal\interview\PG.Management\PG.SharedKernel\bin\Debug\netcoreapp3.1\PG.SharedKernel.dll
+E:\source\personal\interview\PG.Management\PG.SharedKernel\bin\Debug\netcoreapp3.1\PG.SharedKernel.pdb
+E:\source\personal\interview\PG.Management\PG.SharedKernel\obj\Debug\netcoreapp3.1\PG.SharedKernel.AssemblyInfoInputs.cache
+E:\source\personal\interview\PG.Management\PG.SharedKernel\obj\Debug\netcoreapp3.1\PG.SharedKernel.AssemblyInfo.cs
+E:\source\personal\interview\PG.Management\PG.SharedKernel\obj\Debug\netcoreapp3.1\PG.SharedKernel.csproj.CoreCompileInputs.cache
+E:\source\personal\interview\PG.Management\PG.SharedKernel\obj\Debug\netcoreapp3.1\PG.SharedKernel.dll
+E:\source\personal\interview\PG.Management\PG.SharedKernel\obj\Debug\netcoreapp3.1\PG.SharedKernel.pdb
+E:\source\personal\interview\PG.Management\PG.SharedKernel\obj\Debug\netcoreapp3.1\PG.SharedKernel.genruntimeconfig.cache

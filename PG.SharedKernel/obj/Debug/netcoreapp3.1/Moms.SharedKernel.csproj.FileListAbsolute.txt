@@ -1,0 +1,12 @@
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\bin\Debug\netcoreapp3.1\Moms.SharedKernel.deps.json
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\bin\Debug\netcoreapp3.1\Moms.SharedKernel.runtimeconfig.json
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\bin\Debug\netcoreapp3.1\Moms.SharedKernel.runtimeconfig.dev.json
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\bin\Debug\netcoreapp3.1\Moms.SharedKernel.dll
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\bin\Debug\netcoreapp3.1\Moms.SharedKernel.pdb
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\obj\Debug\netcoreapp3.1\Moms.SharedKernel.AssemblyInfoInputs.cache
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\obj\Debug\netcoreapp3.1\Moms.SharedKernel.AssemblyInfo.cs
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\obj\Debug\netcoreapp3.1\Moms.SharedKernel.dll
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\obj\Debug\netcoreapp3.1\Moms.SharedKernel.pdb
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\obj\Debug\netcoreapp3.1\Moms.SharedKernel.genruntimeconfig.cache
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\obj\Debug\netcoreapp3.1\Moms.SharedKernel.csprojAssemblyReference.cache
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.SharedKernel\obj\Debug\netcoreapp3.1\Moms.SharedKernel.csproj.CoreCompileInputs.cache

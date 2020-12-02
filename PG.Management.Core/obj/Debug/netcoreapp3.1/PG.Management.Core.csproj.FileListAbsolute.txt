@@ -1,0 +1,12 @@
+E:\source\personal\interview\PG.Management\PG.Management.Core\bin\Debug\netcoreapp3.1\PG.Management.Core.deps.json
+E:\source\personal\interview\PG.Management\PG.Management.Core\bin\Debug\netcoreapp3.1\PG.Management.Core.dll
+E:\source\personal\interview\PG.Management\PG.Management.Core\bin\Debug\netcoreapp3.1\PG.Management.Core.pdb
+E:\source\personal\interview\PG.Management\PG.Management.Core\bin\Debug\netcoreapp3.1\PG.SharedKernel.dll
+E:\source\personal\interview\PG.Management\PG.Management.Core\bin\Debug\netcoreapp3.1\PG.SharedKernel.pdb
+E:\source\personal\interview\PG.Management\PG.Management.Core\obj\Debug\netcoreapp3.1\PG.Management.Core.csprojAssemblyReference.cache
+E:\source\personal\interview\PG.Management\PG.Management.Core\obj\Debug\netcoreapp3.1\PG.Management.Core.AssemblyInfoInputs.cache
+E:\source\personal\interview\PG.Management\PG.Management.Core\obj\Debug\netcoreapp3.1\PG.Management.Core.AssemblyInfo.cs
+E:\source\personal\interview\PG.Management\PG.Management.Core\obj\Debug\netcoreapp3.1\PG.Management.Core.csproj.CoreCompileInputs.cache
+E:\source\personal\interview\PG.Management\PG.Management.Core\obj\Debug\netcoreapp3.1\PG.Management.Core.csproj.CopyComplete
+E:\source\personal\interview\PG.Management\PG.Management.Core\obj\Debug\netcoreapp3.1\PG.Management.Core.dll
+E:\source\personal\interview\PG.Management\PG.Management.Core\obj\Debug\netcoreapp3.1\PG.Management.Core.pdb

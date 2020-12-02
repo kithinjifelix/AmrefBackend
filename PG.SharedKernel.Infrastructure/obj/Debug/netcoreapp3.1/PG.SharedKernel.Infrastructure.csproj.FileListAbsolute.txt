@@ -1,0 +1,15 @@
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.deps.json
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.runtimeconfig.json
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.runtimeconfig.dev.json
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.dll
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.pdb
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\PG.SharedKernel.dll
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\bin\Debug\netcoreapp3.1\PG.SharedKernel.pdb
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.csprojAssemblyReference.cache
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.AssemblyInfoInputs.cache
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.AssemblyInfo.cs
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.csproj.CoreCompileInputs.cache
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.csproj.CopyComplete
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.dll
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.pdb
+E:\source\personal\interview\PG.Management\PG.SharedKernel.Infrastructure\obj\Debug\netcoreapp3.1\PG.SharedKernel.Infrastructure.genruntimeconfig.cache

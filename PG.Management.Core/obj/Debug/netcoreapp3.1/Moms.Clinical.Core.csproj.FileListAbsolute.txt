@@ -1,0 +1,12 @@
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\obj\Debug\netcoreapp3.1\Moms.Clinical.Core.csprojAssemblyReference.cache
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\obj\Debug\netcoreapp3.1\Moms.Clinical.Core.AssemblyInfoInputs.cache
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\obj\Debug\netcoreapp3.1\Moms.Clinical.Core.AssemblyInfo.cs
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\obj\Debug\netcoreapp3.1\Moms.Clinical.Core.csproj.CoreCompileInputs.cache
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\bin\Debug\netcoreapp3.1\Moms.Clinical.Core.deps.json
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\bin\Debug\netcoreapp3.1\Moms.Clinical.Core.dll
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\bin\Debug\netcoreapp3.1\Moms.Clinical.Core.pdb
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\bin\Debug\netcoreapp3.1\Moms.SharedKernel.dll
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\bin\Debug\netcoreapp3.1\Moms.SharedKernel.pdb
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\obj\Debug\netcoreapp3.1\Moms.Clinical.Core.csproj.CopyComplete
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\obj\Debug\netcoreapp3.1\Moms.Clinical.Core.dll
+E:\source\personal\mindsOnMedical\MindsonMedical.felix.kithinji\Moms.Clinical.Core\obj\Debug\netcoreapp3.1\Moms.Clinical.Core.pdb
